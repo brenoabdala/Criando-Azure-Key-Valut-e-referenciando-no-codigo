@@ -56,4 +56,7 @@
 - Aba lateral "Settings" -> "Identity" -> "On"
 
 <p> Exemplo de código anexado no repositório </p>
+
+##### Referências bibliográfica
+<p> https://learn.microsoft.com/pt-br/azure/key-vault/general/quick-create-portal </p>
   
