@@ -1,4 +1,6 @@
-### Criando Azure Key Valut	e Referenciando no Código
+![Azure Key Valut](https://github.com/user-attachments/assets/409aeaec-8792-46e3-8be7-64f967f2b070)
+
+### Criando Azure Key Valut e Referenciando no Código
 
 <p> O propósito do processo a seguir é criar uma "Azure Key Valut" e chama-la no código desenvolvido, no exemplo apresentando será na linguagem Python.</p>
 
