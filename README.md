@@ -55,4 +55,5 @@
 - Acesse a function desejada;
 - Aba lateral "Settings" -> "Identity" -> "On"
 
+<p> Exemplo de código anexado no repositório </p>
   
